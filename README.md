@@ -13,7 +13,13 @@
 - Compare financial metrics across different companies.
 - Monitor market fluctuations and derive actionable insights.
 
-## Getting Started
+## Dashboard Preview
+
+### Desktop View
+![Power BI Dashboard - Desktop](finacials/desktop-dashboard.PNG)
+
+Explore the interactive Power BI dashboard below:
+
 
 ### Prerequisites
 - Python 3.x
@@ -37,7 +43,7 @@
 ### Running the Scraper
 1. Execute the Scrapy spider:
    ```bash
-   scrapy crawl your_spider_name
+   scrapy crawl financials_spider
    ```
 
 2. After scraping, import the data into Power BI for visualization.
