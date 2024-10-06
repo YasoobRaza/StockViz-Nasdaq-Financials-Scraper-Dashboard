@@ -16,7 +16,7 @@
 ## Dashboard Preview
 
 ### Desktop View
-![Power BI Dashboard - Desktop](finacials/desktop-dashboard.PNG)
+![Power BI Dashboard - Desktop](financials/desktop-dashboard.PNG)
 
 Explore the interactive Power BI dashboard below:
 
